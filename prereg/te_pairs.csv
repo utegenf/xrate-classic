@@ -1,0 +1,151 @@
+de,en,category,de_phon,en_phon,de_freq,en_freq,natural_overlap
+scheibe,slice,Noun,ʃ aɪ b ə,s l aɪ s,25,131,0.0
+ferienwohnung,accommodation,Noun,f e r ɪ ə n v o n ʊ ŋ,ɐ k ɑ m ə d eɪ ʃ ə n,22,5,0.091
+glauben,believe,Verb,ɡ l aʊ b ə n,b ɪ l i v,27,61,0.0
+schirm,screen,Noun,ʃ ɪ r m,s k r i n,20,7,0.2
+entscheiden,decide,Verb,ɛ n t ʃ aɪ d ə n,d ᵻ s aɪ d,21,26,0.25
+lamm,lamb,Noun,l a m,l æ m,21,48,0.667
+traktor,tractor,Noun,t r a k t o r,t r æ k t ə r,26,328,0.714
+sicherheit,safety,Noun,z ɪ ç ɜ h aɪ t,s eɪ f t i,20,15,0.0
+flug,plane,Noun,f l u k,p l eɪ n,23,84,0.25
+reiten,ride,Verb,r aɪ t ə n,r aɪ d,20,262,0.4
+salbe,balm,Noun,z a l b ə,b ɑ m,20,1,0.0
+großvater,grandpa,Noun,ɡ r ɔ s f ɑ t ɜ,ɡ r æ n d p ɑ,23,15,0.25
+fahrkarte,ticket,Noun,f ɑ r k a r t ə,t ɪ k ɪ t,23,142,0.25
+korb,basket,Noun,k ɔ r p,b æ s k ɪ t,20,269,0.0
+sessel,armchair,Noun,z ɛ s ə l,ɑ r m tʃ ɛ r,21,9,0.0
+bruder,brother,Noun,b r u d ɜ,b r ʌ ð ə r,29,41,0.333
+zählen,count,Verb,ts ɛ l ə n,k aʊ n t,24,183,0.0
+kapitän,captain,Noun,k ɑ p i t ɛ n,k æ p t ɪ n,29,3,0.571
+haar,hair,Noun,h ɑ r,h ɛ r,20,609,0.667
+organisieren,organize,Verb,ɔ r ɡ a n i z i r ə n,ɔ r ɡ ɐ n aɪ z,27,6,0.455
+aufhören,stop,Verb,aʊ f h ø r ə n,s t ɑ p,25,819,0.0
+stock,cane,Noun,ʃ t ɔ k,k eɪ n,20,1,0.0
+schule,school,Noun,ʃ u l ə,s k u l,21,390,0.25
+petersilie,parsley,Noun,p e t ɜ z i l ɪ ə,p ɑ r s l i,25,4,0.222
+gabelstapler,forklift,Noun,ɡ ɑ b ə l s t a p l ɜ,f ɔ r k l ɪ f t,28,12,0.091
+bewegen,move,Verb,b ə v e ɡ ə n,m u v,25,566,0.143
+kette,chain,Noun,k ɛ t ə,tʃ eɪ n,28,40,0.0
+aufzug,elevator,Noun,aʊ f ts u k,ɛ l ɪ v eɪ r ə r,25,9,0.0
+spieler,player,Noun,ʃ p i l ɜ,p l eɪ ə r,27,8,0.0
+tauchen,diving,Verb,t aʊ x ə n,d aɪ v ɪ ŋ,22,10,0.0
+bäcker,baker,Noun,b ɛ k ɜ,b eɪ k ə r,31,26,0.4
+sonntag,sunday,Noun,z ɔ n t ɑ k,s ʌ n d eɪ,35,188,0.167
+tor,gate,Noun,t o r,ɡ eɪ t,30,95,0.0
+prinzessin,princess,Noun,p r ɪ n ts ɛ s i n,p r ɪ n s ɛ s,33,1,0.667
+gemüse,vegetable,Noun,ɡ ə m y z ə,v ɛ dʒ ɪ r ə b ə l,37,14,0.111
+gabel,fork,Noun,ɡ ɑ b ə l,f ɔ r k,42,144,0.0
+insel,island,Noun,ɪ n z ə l,aɪ l ə n d,34,8,0.0
+abendessen,dinner,Noun,ɑ b ə n d ɛ s ə n,d ɪ n ə r,33,83,0.222
+muschel,shell,Noun,m ʊ ʃ ə l,ʃ ɛ l,37,25,0.4
+schiene,rail,Noun,ʃ i n ə,r eɪ l,34,22,0.0
+denken,think,Verb,d ɛ ŋ k ə n,θ ɪ ŋ k,31,10238,0.333
+pfanne,pan,Noun,pf a n ə,p æ n,45,219,0.25
+doktor,doc,Noun,d ɔ k t o r,d ɑ k,37,8,0.333
+singen,sing,Verb,z ɪ ŋ ə n,s ɪ ŋ,37,522,0.4
+werkstatt,garage,Noun,v ɛ r k s t a t,ɡ ɐ r ɑ ʒ,31,151,0.125
+suppe,soup,Noun,z ʊ p ə,s u p,34,22,0.25
+hafen,port,Noun,h ɑ f ə n,p o r t,46,6,0.0
+tanzen,dance,Verb,t a n ts ə n,d æ n s,36,47,0.167
+sprechen,speak,Verb,ʃ p r ɛ ç ə n,s p i k,39,39,0.143
+starten,launch,Verb,ʃ t a r t ə n,l ɑ n tʃ,30,3,0.0
+üben,practice,Verb,y b ə n,p r æ k t ɪ s,36,15,0.0
+spitze,top,Noun,ʃ p ɪ ts ə,t ɑ p,30,932,0.0
+rand,edge,Noun,r a n t,ɛ dʒ,37,72,0.0
+lösung,solution,Noun,l ø z ʊ ŋ,s ə l u ʃ ə n,32,10,0.143
+benutzen,use,Verb,b ə n ʊ ts ə n,j u s,36,730,0.0
+form,shape,Noun,f ɔ r m,ʃ eɪ p,38,191,0.0
+kuscheln,snuggle,Verb,k ʊ ʃ ə l n,s n ʌ ɡ ə l,36,9,0.167
+pullover,sweater,Noun,p ʊ l o v ɜ,s w ɛ r ə r,35,8,0.0
+süß,sweet,Noun,z y s,s w i t,40,308,0.0
+lachen,laugh,Verb,l a x ə n,l æ f,34,72,0.2
+fallen,fall,Verb,f a l ə n,f ɔ l,72,449,0.4
+waschen,wash,Verb,v a ʃ ə n,w ɑ ʃ,70,820,0.2
+müsli,cereal,Noun,m ʏ s l i,s iə r ɪ ə l,64,152,0.0
+welt,world,Noun,v ɛ l t,w ɜ l d,61,47,0.25
+einpacken,wrap,Verb,aɪ n p a k ə n,r æ p,58,95,0.143
+süßer,sweetie,Noun,z y s ɜ,s w i r i,54,177,0.0
+zitrone,lemon,Noun,ts ɪ t r o n ə,l ɛ m ə n,57,88,0.143
+esel,donkey,Noun,e z ə l,d ɑ ŋ k i,49,44,0.0
+mitte,middle,Noun,m ɪ t ə,m ɪ d ə l,77,193,0.6
+ruhe,rest,Noun,r u ə,r ɛ s t,73,215,0.25
+brötchen,bun,Noun,b r ø t ç ə n,b ʌ n,70,110,0.286
+schlüssel,key,Noun,ʃ l ʏ s ə l,k i,54,134,0.0
+roller,scooter,Noun,r ɔ l ɜ,s k u r ə r,64,83,0.0
+herz,heart,Noun,h ɛ r ts,h ɑ r t,57,61,0.5
+anleitung,instruction,Noun,a n l aɪ t ʊ ŋ,ɪ n s t r ʌ k ʃ ə n,54,7,0.1
+aufräumen,clean,Verb,aʊ f r ɔø m ə n,k l i n,62,532,0.143
+pflaster,plaster,Noun,pf l a s t ɜ,p l æ s t ə r,47,46,0.429
+übrig,leftover,Noun,ʏ b r ɪ ç,l ɛ f t oʊ v ə r,47,4,0.0
+schloss,castle,Noun,ʃ l ɔ s,k æ s ə l,58,26,0.0
+hals,neck,Noun,h ɑ l s,n ɛ k,56,148,0.0
+kakao,cocoa,Noun,k ɑ k a o,k oʊ k oʊ,49,9,0.4
+wal,whale,Noun,v ɑ l,w eɪ l,64,17,0.333
+mittag,lunchtime,Noun,m ɪ t ɑ k,l ʌ n tʃ t aɪ m,73,143,0.143
+eindruck,impression,Noun,aɪ n d r ʊ k,ɪ m p r ɛ ʃ ə n,49,5,0.125
+kamel,camel,Noun,k ɑ m ə l,k æ m ə l,75,9,0.8
+schaf,sheep,Noun,ʃ ɑ f,ʃ i p,71,225,0.333
+wald,wood,Noun,v a l t,w ʊ d,46,166,0.0
+bart,beard,Noun,b a r t,b ɪ r d,63,15,0.5
+spielzeug,toy,Noun,ʃ p i l ts ɔø k,t ɔɪ,72,414,0.0
+anfangen,start,Verb,a n f a ŋ ə n,s t ɑ r t,65,619,0.0
+vorstellen,imagine,Verb,f o r ʃ t ɛ l ə n,ɪ m æ dʒ ɪ n,114,228,0.111
+schick,posh,Noun,ʃ ɪ k,p ɑ ʃ,121,20,0.0
+bringen,bring,Verb,b r ɪ ŋ ə n,b r ɪ ŋ,123,325,0.667
+menge,volume,Noun,m ɛ ŋ ə,v ɑ l j u m,153,6,0.0
+rauch,smoke,Noun,r aʊ x,s m oʊ k,145,75,0.0
+fangen,catch,Verb,f a ŋ ə n,k æ tʃ,84,170,0.0
+bein,leg,Noun,b aɪ n,l ɛ ɡ,86,159,0.0
+herr,mister,Noun,h ɛ r,m ɪ s t ə r,109,229,0.167
+huhn,chicken,Noun,h u n,tʃ ɪ k ɪ n,148,194,0.2
+eichhörnchen,squirrel,Noun,aɪ ç h œ r n ç ə n,s k w ɪ r ə l,84,54,0.222
+richtung,direction,Noun,r ɪ ç t ʊ ŋ,d ə r r ɛ k ʃ ə n,80,25,0.111
+rosa,pink,Noun,r o z ɑ,p ɪ ŋ k,125,572,0.0
+brot,bread,Noun,b r o t,b r ɛ d,160,763,0.5
+leer,empty,Verb,l e r,ɛ m p t i,95,394,0.0
+nacht,night,Noun,n a x t,n aɪ t,116,1127,0.5
+fragen,ask,Verb,f r ɑ ɡ ə n,æ s k,111,266,0.0
+halten,keep,Verb,h a l t ə n,k i p,160,1017,0.0
+schnecke,slug,Noun,ʃ n ɛ k ə,s l ʌ ɡ,138,44,0.0
+becher,cup,Noun,b ɛ ç ɜ,k ʌ p,103,729,0.0
+rad,wheel,Noun,r ɑ t,w i l,94,155,0.0
+passen,fit,Verb,p a s ə n,f ɪ t,123,234,0.0
+mädchen,girl,Noun,m ɛ d ç ə n,ɡ ɜ l,99,461,0.0
+baum,tree,Noun,b aʊ m,t r i,143,648,0.0
+licht,light,Noun,l ɪ ç t,l aɪ t,119,484,0.5
+erzählen,recount,Verb,ɛ r ts ɛ l ə n,r ɪ k aʊ n t,98,1,0.143
+geld,money,Noun,ɡ ɛ l t,m ʌ n i,79,622,0.0
+schwein,pig,Noun,ʃ v aɪ n,p ɪ ɡ,103,47,0.0
+flügel,piano,Noun,f l y ɡ ə l,p ɪ æ n oʊ,98,18,0.0
+art,kind,Noun,ɑ r t,k aɪ n d,85,110,0.0
+puzzle,jigsaw,Noun,p ʊ ts l ə,dʒ ɪ ɡ s ɔ,113,256,0.0
+fenster,window,Noun,f e n s t ɜ,w ɪ n d oʊ,204,710,0.167
+halt,hold,Verb,h a l t,h oʊ l d,1100,494,0.5
+stuhl,chair,Noun,ʃ t u l,tʃ ɛ r,175,1179,0.0
+kuchen,cake,Noun,k ʊ x ə n,k eɪ k,283,589,0.2
+kindergarten,nursery,Noun,k ɪ n d ɜ ɡ a r t ə n,n ɜ s ə r r i,359,398,0.273
+dach,roof,Noun,d a x,r u f,207,161,0.0
+anderes,other,Noun,a n d ə r ə s,ʌ ð ə r,311,1810,0.286
+leute,people,Noun,l ɔø t ə,p i p ə l,483,1000,0.2
+holen,get,Verb,h o l ə n,ɡ ɛ t,482,5034,0.0
+sehen,see,Verb,z e ə n,s i,1166,7335,0.0
+unterbrechen,interrupt,Verb,ʊ n t ɜ b r ɛ ç ə n,ɪ n t ə r r ʌ p t,184,3,0.3
+platz,place,Noun,p l a ts,p l eɪ s,225,274,0.5
+nehmen,take,Verb,n e m ə n,t eɪ k,718,1518,0.0
+tisch,table,Noun,t ɪ ʃ,t eɪ b ə l,257,1214,0.2
+bild,picture,Noun,b ɪ l t,p ɪ k tʃ ə r,330,857,0.167
+probieren,try,Verb,p r o b i r ə n,t r aɪ,208,596,0.125
+paar,pair,Noun,p ɑ r,p ɛ r,672,101,0.667
+käfer,bug,Noun,k ɛ f ɜ,b ʌ ɡ,177,16,0.0
+brauchen,need,Verb,b r aʊ x ə n,n i d,498,1325,0.0
+bisschen,bit,Noun,b ɪ s ç ə n,b ɪ t,3363,2925,0.333
+rot,red,Noun,r o t,r ɛ d,575,2192,0.333
+sein,be,Verb,z aɪ n,b i,1085,7023,0.0
+zug,train,Noun,ts u k,t r eɪ n,1055,2107,0.0
+eule,owl,Noun,ɔø l ə,aʊ l,419,44,0.333
+reparieren,fix,Verb,r e p a r i r ə n,f ɪ k s,266,46,0.0
+ente,duck,Noun,ɛ n t ə,d ʌ k,238,203,0.0
+bahnhof,station,Noun,b ɑ n h o f,s t eɪ ʃ ə n,407,419,0.0
+finden,find,Verb,f ɪ n d ə n,f aɪ n d,248,787,0.5
+machen,do,Verb,m a x ə n,d u,4686,14505,0.0
+elefant,elephant,Noun,e l e f a n t,ɛ l ɪ f ə n t,179,295,0.571

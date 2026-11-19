@@ -1,0 +1,8 @@
+data/raw/
+data/interim/
+logs/
+results/tables/*.rds
+__pycache__/
+results/grid/*/
+results/classic_fidelity/
+results/classic_timing/

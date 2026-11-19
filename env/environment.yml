@@ -1,0 +1,18 @@
+name: xrate-classic
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - r-base=4.4
+  - r-brms
+  - r-rstan
+  - r-bh
+  - r-readxl
+  - r-dplyr
+  - r-stringr
+  - pandas>=2.2,<3  # CLASSIC.py uses chained .iat assignment, which pandas 3 copy-on-write silently ignores
+  - numpy
+  - scipy
+  - statsmodels
+  - matplotlib
+  - pytest
