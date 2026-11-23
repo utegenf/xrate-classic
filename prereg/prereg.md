@@ -1,6 +1,6 @@
 # Pre-registration: shared form and the bilingual exchange rate in CLASSIC
 
-Status: DRAFT v2 (2026-11-19). Freeze by committing before any extension simulation runs. Record the commit hash here: `________`.
+Status: DRAFT v2 (2026-11-19). Freeze by committing before any extension simulation runs. Frozen in commit `79e5b7b` (2026-11-19 13:09 UTC). It was first recorded as `be595af`, and the authorship email was rewritten to a personal address before publishing, with identical content and date.
 
 ## Background
 In *Facts Follow the Spelling*, facts learned from Cyrillic Kazakh moved English answers only 11 to 34% as much as English text did. Shared name spellings raised this to 70 to 80%, and one changed consonant per name cut English-Turkish transfer from 79% to 16%. CLASSIC (Jones et al. 2026) learns only by chunking phoneme sequences and has no semantics. So the only route by which input in one language can help the other is **form overlap**. This makes CLASSIC a form-only baseline for the cognate advantage reported in bilingual toddlers.
@@ -40,3 +40,18 @@ On Thomas (first 210,748 MOT utterances), compare the noun and verb types learne
 - **Pre-specified check: FAILED.** CLASSIC on Thomas learned 3,913 noun and 1,371 verb surface types, against the paper's 2,958 and 836 (ratios 1.32 and 1.64, tolerance ±15%). Surface types are the paper's unit ("kick, kicked, kicks = three word types").
 - **Diagnostic (post hoc, labelled as such).** The same noun/verb categorization applied to Thomas's own speech over the same sessions gives 2,602 nouns and 732 verbs, against the paper's 1,958 and 463 (ratios 1.33 and 1.58). The overshoot is the same for the child as for the model, so it comes from our %mor-based categorization, not from CLASSIC. The model-to-child ratio matches the paper: nouns 1.504 vs 1.511, verbs 1.873 vs 1.806.
 - **Consequence.** The extension's outcome is defined by target forms, not by noun/verb categories, so the categorization mismatch does not affect H1 or H2. Proceed, and report both numbers.
+
+## Results (2026-11-19, analysis exactly as pre-registered, commit 79e5b7b)
+45 runs, 6,750 target outcomes, 2,000 cluster-bootstrap replicates.
+| Statistic | Estimate | 95% CI |
+|---|---|---|
+| r50 native (German share for 50% learned) | 0.179 | 0.123 to 0.254 |
+| r50 onecons | 0.127 | 0.073 to 0.192 |
+| r50 ratio native / onecons (H1) | 1.41 | 0.86 to 2.52 |
+| Overlap slope, native arm (H2) | -0.35 | -2.42 to 1.63 |
+| Exchange rate tau, onecons | 0.05 | -0.05 to 0.15 |
+| Share learned, identical-form control | 0.88 | 0.82 to 0.93 |
+- **H1 not supported.** The point estimate favours near-identical forms, and the advantage is concentrated at low German exposure (figure: 36% vs 27% learned at 1:16). But the CI includes 1.
+- **H2 not supported.** There is no graded effect of natural phonological overlap.
+- **The control behaved as expected**, so the pipeline is sound.
+- **Interpretation.** A form-only chunking learner gains at most a small, uncertain benefit from near-identical cross-language forms (tau about 0.05: one English token of the source form is worth about 0.05 German tokens of the target). In the ACL experiments on language models, one changed consonant cut transfer from 79% to 16%, so form gated transfer strongly there. If bilingual toddlers show a robust cognate advantage, form overlap in a chunking learner is not enough to explain it. This points to meaning-mediated routes (translation equivalents linked through concepts).

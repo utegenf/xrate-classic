@@ -1,0 +1,151 @@
+de,en,arm,target,natural_overlap,l2_tokens,l1_tokens_target,l1_tokens_en,odds,seed,learned
+starten,launch,native,ʃ t a r t ə n,0.0,1,0,0,1,1,0
+denken,think,onecons,θ ɪ ŋ d,0.333,2,0,658,1,1,0
+pullover,sweater,identical,s w ɛ r ə r,0.0,5,1,1,1,1,1
+tisch,table,native,t ɪ ʃ,0.2,28,0,78,1,1,1
+reiten,ride,onecons,m aɪ d,0.4,3,0,16,1,1,0
+pflaster,plaster,identical,p l æ s t ə r,0.429,2,3,3,1,1,1
+eule,owl,native,ɔø l ə,0.333,37,0,2,1,1,1
+brauchen,need,onecons,n i p,0.0,52,0,101,1,1,1
+flug,plane,identical,p l eɪ n,0.25,3,13,13,1,1,1
+kamel,camel,native,k ɑ m ə l,0.8,4,0,0,1,1,1
+singen,sing,onecons,m ɪ ŋ,0.4,1,0,39,1,1,1
+vorstellen,imagine,identical,ɪ m æ dʒ ɪ n,0.111,9,6,6,1,1,1
+leute,people,native,l ɔø t ə,0.2,49,0,42,1,1,1
+haar,hair,onecons,h ɛ z,0.667,1,0,29,1,1,1
+holen,get,identical,ɡ ɛ t,0.0,42,311,311,1,1,1
+rauch,smoke,native,r aʊ x,0.0,9,0,3,1,1,1
+stock,cane,onecons,k eɪ v,0.0,1,0,0,1,1,1
+nehmen,take,identical,t eɪ k,0.0,74,91,91,1,1,1
+schick,posh,native,ʃ ɪ k,0.0,13,0,1,1,1,1
+lachen,laugh,onecons,v æ f,0.2,6,0,2,1,1,1
+zitrone,lemon,identical,l ɛ m ə n,0.143,4,6,6,1,1,1
+traktor,tractor,native,t r a k t o r,0.714,3,0,19,1,1,0
+prinzessin,princess,onecons,p d ɪ n s ɛ s,0.667,2,0,0,1,1,0
+nacht,night,identical,n aɪ t,0.5,16,70,70,1,1,1
+übrig,leftover,native,ʏ b r ɪ ç,0.0,5,0,0,1,1,1
+brot,bread,onecons,b r ɛ m,0.5,23,0,53,1,1,1
+finden,find,identical,f aɪ n d,0.5,26,41,41,1,1,1
+müsli,cereal,native,m ʏ s l i,0.0,5,0,9,1,1,1
+unterbrechen,interrupt,onecons,ɪ n t ə r r ʌ b t,0.3,23,0,0,1,1,1
+art,kind,identical,k aɪ n d,0.0,8,7,7,1,1,1
+herz,heart,native,h ɛ r ts,0.5,3,0,3,1,1,1
+fragen,ask,onecons,æ n k,0.0,12,0,15,1,1,1
+schnecke,slug,identical,s l ʌ ɡ,0.0,13,6,6,1,1,1
+kapitän,captain,native,k ɑ p i t ɛ n,0.571,5,0,0,1,1,0
+halten,keep,onecons,f i p,0.0,14,0,54,1,1,1
+anleitung,instruction,identical,ɪ n s t r ʌ k ʃ ə n,0.1,7,0,0,1,1,1
+dach,roof,native,d a x,0.0,18,0,13,1,1,1
+roller,scooter,onecons,s k u h ə r,0.0,10,0,4,1,1,1
+fallen,fall,identical,f ɔ l,0.4,11,20,20,1,1,1
+sehen,see,native,z e ə n,0.0,105,0,445,1,1,1
+form,shape,onecons,ʃ eɪ j,0.0,5,0,9,1,1,0
+gabel,fork,identical,f ɔ r k,0.0,4,7,7,1,1,1
+elefant,elephant,native,e l e f a n t,0.571,18,0,16,1,1,1
+bein,leg,onecons,s ɛ ɡ,0.0,12,0,9,1,1,1
+bild,picture,identical,p ɪ k tʃ ə r,0.167,30,63,63,1,1,1
+sessel,armchair,native,z ɛ s ə l,0.0,2,0,0,1,1,0
+tor,gate,onecons,z eɪ t,0.0,1,0,5,1,1,1
+stuhl,chair,identical,tʃ ɛ r,0.0,16,61,61,1,1,1
+salbe,balm,native,z a l b ə,0.0,3,0,1,1,1,0
+pfanne,pan,onecons,p æ b,0.25,4,0,9,1,1,0
+bewegen,move,identical,m u v,0.143,2,38,38,1,1,1
+rand,edge,native,r a n t,0.0,3,0,3,1,1,1
+menge,volume,onecons,j ɑ l j u m,0.0,14,0,0,1,1,1
+schiene,rail,identical,r eɪ l,0.0,3,0,0,1,1,1
+spielzeug,toy,native,ʃ p i l ts ɔø k,0.0,7,0,31,1,1,1
+suppe,soup,onecons,s u k,0.25,2,0,1,1,1,1
+organisieren,organize,identical,ɔ r ɡ ɐ n aɪ z,0.455,3,1,1,1,1,0
+richtung,direction,native,r ɪ ç t ʊ ŋ,0.111,7,0,0,1,1,1
+machen,do,onecons,ŋ u,0.0,475,0,930,1,1,1
+kuchen,cake,identical,k eɪ k,0.2,23,26,26,1,1,1
+huhn,chicken,native,h u n,0.2,16,0,13,1,1,1
+schloss,castle,onecons,k æ s ə d,0.0,8,0,3,1,1,1
+fangen,catch,identical,k æ tʃ,0.0,8,13,13,1,1,1
+hals,neck,native,h ɑ l s,0.0,4,0,14,1,1,1
+aufhören,stop,onecons,s t ɑ k,0.0,4,1,51,1,1,1
+korb,basket,identical,b æ s k ɪ t,0.0,4,20,20,1,1,1
+bahnhof,station,native,b ɑ n h o f,0.0,23,0,23,1,1,1
+mädchen,girl,onecons,ɡ ɜ r,0.0,7,0,32,1,1,1
+großvater,grandpa,identical,ɡ r æ n d p ɑ,0.25,1,0,0,1,1,0
+tanzen,dance,native,t a n ts ə n,0.167,5,0,1,1,1,1
+rad,wheel,onecons,ŋ i l,0.0,9,0,161,1,1,1
+hafen,port,identical,p o r t,0.0,6,1,1,1,1,1
+schule,school,native,ʃ u l ə,0.25,2,0,21,1,1,1
+paar,pair,onecons,t ɛ r,0.667,56,0,23,1,1,1
+spitze,top,identical,t ɑ p,0.0,3,46,46,1,1,1
+sonntag,sunday,native,z ɔ n t ɑ k,0.167,1,0,15,1,1,0
+waschen,wash,onecons,w ɑ f,0.2,6,0,45,1,1,1
+entscheiden,decide,identical,d ᵻ s aɪ d,0.25,3,2,2,1,1,1
+leer,empty,native,l e r,0.0,7,0,25,1,1,1
+üben,practice,onecons,p r æ s t ɪ s,0.0,1,0,2,1,1,0
+puzzle,jigsaw,identical,dʒ ɪ ɡ s ɔ,0.0,7,22,22,1,1,1
+probieren,try,native,p r o b i r ə n,0.125,18,0,33,1,1,1
+aufräumen,clean,onecons,k ɡ i n,0.143,8,0,35,1,1,1
+insel,island,identical,aɪ l ə n d,0.0,6,1,1,1,1,1
+muschel,shell,native,m ʊ ʃ ə l,0.4,3,0,0,1,1,1
+bisschen,bit,onecons,v ɪ t,0.333,331,0,185,1,1,1
+schaf,sheep,identical,ʃ i p,0.333,10,10,10,1,1,1
+anfangen,start,native,a n f a ŋ ə n,0.0,6,0,32,1,1,1
+flügel,piano,onecons,p ɪ æ j oʊ,0.0,9,0,0,1,1,1
+einpacken,wrap,identical,r æ p,0.143,7,3,3,1,1,1
+doktor,doc,native,d ɔ k t o r,0.333,3,0,0,1,1,0
+bruder,brother,onecons,h r ʌ ð ə r,0.333,0,0,3,1,1,0
+rosa,pink,identical,p ɪ ŋ k,0.0,8,33,33,1,1,1
+schwein,pig,native,ʃ v aɪ n,0.0,8,0,6,1,1,1
+kakao,cocoa,onecons,k oʊ z oʊ,0.4,6,0,1,1,1,1
+petersilie,parsley,identical,p ɑ r s l i,0.222,2,1,1,1,1,1
+fahrkarte,ticket,native,f ɑ r k a r t ə,0.25,3,0,10,1,1,1
+mittag,lunchtime,onecons,b ʌ n tʃ t aɪ m,0.143,8,0,7,1,1,1
+schlüssel,key,identical,k i,0.0,5,10,10,1,1,1
+rot,red,native,r o t,0.333,60,0,130,1,1,1
+glauben,believe,onecons,b ɪ r i v,0.0,3,0,2,1,1,1
+abendessen,dinner,identical,d ɪ n ə r,0.222,5,6,6,1,1,1
+platz,place,native,p l a ts,0.5,25,0,15,1,1,1
+halt,hold,onecons,h oʊ l w,0.5,101,0,27,1,1,1
+licht,light,identical,l aɪ t,0.5,11,29,29,1,1,1
+wald,wood,native,v a l t,0.0,4,0,337,1,1,1
+becher,cup,onecons,k ʌ s,0.0,11,0,53,1,1,1
+werkstatt,garage,identical,ɡ ɐ r ɑ ʒ,0.125,3,6,6,1,1,1
+tauchen,diving,native,t aʊ x ə n,0.0,4,0,1,1,1,1
+brötchen,bun,onecons,b ʌ k,0.286,8,0,9,1,1,1
+welt,world,identical,w ɜ l d,0.25,5,6,6,1,1,1
+kuscheln,snuggle,native,k ʊ ʃ ə l n,0.167,3,0,2,1,1,1
+sein,be,onecons,w i,0.0,115,1424,441,1,1,1
+spieler,player,identical,p l eɪ ə r,0.0,0,1,1,1,1,0
+esel,donkey,native,e z ə l,0.0,9,0,3,1,1,1
+reparieren,fix,onecons,f ɪ d s,0.0,24,0,2,1,1,1
+bringen,bring,identical,b r ɪ ŋ,0.667,12,26,26,1,1,1
+benutzen,use,native,b ə n ʊ ts ə n,0.0,1,0,39,1,1,1
+aufzug,elevator,onecons,ɛ l ɪ p eɪ r ə r,0.0,3,0,0,1,1,0
+bart,beard,identical,b ɪ r d,0.5,4,1,1,1,1,1
+sprechen,speak,native,ʃ p r ɛ ç ə n,0.143,4,0,2,1,1,1
+baum,tree,onecons,l r i,0.0,18,0,53,1,1,1
+zug,train,identical,t r eɪ n,0.0,94,117,117,1,1,1
+ferienwohnung,accommodation,native,f e r ɪ ə n v o n ʊ ŋ,0.091,0,0,1,1,1,0
+ruhe,rest,onecons,r ɛ ŋ t,0.25,8,0,12,1,1,1
+eindruck,impression,identical,ɪ m p r ɛ ʃ ə n,0.125,1,0,0,1,1,0
+schirm,screen,native,ʃ ɪ r m,0.2,3,0,1,1,1,1
+lamm,lamb,onecons,l æ s,0.667,1,0,4,1,1,1
+käfer,bug,identical,b ʌ ɡ,0.0,18,1,1,1,1,1
+wal,whale,native,v ɑ l,0.333,2,0,0,1,1,1
+kette,chain,onecons,tʃ eɪ f,0.0,3,0,4,1,1,0
+süß,sweet,identical,s w i t,0.0,4,18,18,1,1,1
+mitte,middle,native,m ɪ t ə,0.6,9,0,9,1,1,1
+erzählen,recount,onecons,r ɪ r aʊ n t,0.143,9,0,0,1,1,1
+scheibe,slice,identical,s l aɪ s,0.0,2,5,5,1,1,1
+passen,fit,native,p a s ə n,0.0,13,0,14,1,1,1
+eichhörnchen,squirrel,onecons,s h w ɪ r ə l,0.222,7,0,3,1,1,1
+sicherheit,safety,identical,s eɪ f t i,0.0,1,0,0,1,1,0
+kindergarten,nursery,native,k ɪ n d ɜ ɡ a r t ə n,0.273,34,0,24,1,1,1
+gabelstapler,forklift,onecons,f ɔ r k l ɪ f k,0.091,3,0,0,1,1,0
+lösung,solution,identical,s ə l u ʃ ə n,0.143,4,1,1,1,1,1
+herr,mister,native,h ɛ r,0.167,6,29,22,1,1,1
+fenster,window,onecons,d ɪ n d oʊ,0.167,21,0,43,1,1,1
+geld,money,identical,m ʌ n i,0.0,7,43,43,1,1,1
+anderes,other,native,a n d ə r ə s,0.286,45,0,103,1,1,1
+bäcker,baker,onecons,b eɪ ŋ ə r,0.4,3,0,1,1,1,0
+süßer,sweetie,identical,s w i r i,0.0,9,14,14,1,1,1
+zählen,count,native,ts ɛ l ə n,0.0,1,0,9,1,1,0
+ente,duck,onecons,d ʌ b,0.0,18,0,10,1,1,1
+gemüse,vegetable,identical,v ɛ dʒ ɪ r ə b ə l,0.111,7,1,1,1,1,1

@@ -7,7 +7,7 @@ OSF := data/raw/osf
 
 all: repro
 
-# conda-forge env, then bambi from prebuilt wheels only (Amazon Linux 2 has glibc 2.26 and gcc 7, too old to build numpy/llvmlite).
+# conda-forge env, then bambi from prebuilt wheels only (on hosts with glibc 2.26 and gcc 7, pip would otherwise try to build numpy and llvmlite from source and fail).
 env:
 	micromamba create -y -f env/environment.yml
 	$(RUN) pip install --only-binary=:all: bambi openpyxl

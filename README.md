@@ -20,3 +20,22 @@ Logs go to `logs/`. The refit uses bambi/PyMC with the authors' brms formula and
 | CLASSIC model | 0.549 [0.356, 0.748] | 0.549 [0.353, 0.743] |
 
 4 chains x 3,000 draws, max R-hat 1.005, min bulk ESS 714, 0 divergences.
+
+## Extension result (2026-11-19, pre-registered in `prereg/prereg.md`)
+45 runs (9 German:English input ratios x 5 seeds, 40,000 utterances each), 150 German targets per run in three arms.
+| Statistic | Estimate | 95% CI |
+|---|---|---|
+| r50 ratio, native / one-consonant-changed English form (H1) | 1.41 | 0.86 to 2.52 |
+| Phonological-overlap slope, native arm (H2) | -0.35 | -2.42 to 1.63 |
+| Identical-form control, share learned | 0.88 | 0.82 to 0.93 |
+
+Neither hypothesis is supported. A form-only chunking learner gains little from near-identical cross-language forms. The pre-registered fidelity check against the paper's Figure 2 failed, and the prereg reports why (our noun/verb categorization, not CLASSIC). See `results/figures/extension_curves.png`.
+
+## Data and credits
+Nothing below is redistributed in this repository. Each item is downloaded at build time, or by hand under its own terms.
+- **CLASSIC model and noun-bias data:** Jones, Cabiddu, Aros Muñoz, Roeser, Du & Rowland (2026), *Revisiting the noun bias*, JEP: General 155(9). OSF: https://osf.io/gxqvd (no licence set, so CLASSIC.py is fetched, not copied).
+- **CHILDES** (MacWhinney, 2000), via TalkBank (free registration). Corpora: Thomas (Lieven, Salomo & Tomasello, 2009) and Leo (Behrens, 2006). Follow the TalkBank ground rules and cite the corpora when using the data.
+- **MUSE bilingual dictionary de-en:** Conneau, Lample, Ranzato, Denoyer & Jégou (2018), *Word translation without parallel data*, ICLR.
+- **espeak 1.47** for phonemization.
+
+The code in this repository is released under the Apache License 2.0 (see `LICENSE`).
